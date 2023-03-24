@@ -1,0 +1,13 @@
+.coantainer{
+    max-width: 600px;
+}
+.btn{
+    background: #43d9be;
+    color: white;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.btn:hover{
+    outline: none !important;
+    transition: 0.9s;
+}
